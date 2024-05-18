@@ -1,0 +1,1 @@
+imagemap errorimagemap erroryour client did not send any coordinates either your client doesnt support imagemap or the map file was not accessed as a map
